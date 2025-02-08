@@ -1,0 +1,6 @@
+# 忽略 IDE 配置文件
+.idea/
+# 忽略 CMake 构建目录
+/build/
+# 忽略 CMake 配置文件
+CMakeCache.txt
